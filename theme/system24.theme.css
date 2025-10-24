@@ -24,10 +24,10 @@ body {
     --gap: 12px; /* spacing between panels */
     --divider-thickness: 4px; /* thickness of unread messages divider and highlighted message borders */
     --border-thickness: 2px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
-    --border-hover-transition: 0.2s ease; /* transition for borders when hovered */
+    --border-hover-transition: 0s ease; /* transition for borders when hovered */
 
     /* animation/transition options */
-    --animations: off; /* off: disable animations/transitions, on: enable animations/transitions */
+    --animations: on; /* off: disable animations/transitions, on: enable animations/transitions */
     --list-item-transition: 0.2s ease; /* transition for list items */
     --dms-icon-svg-transition: 0.4s ease; /* transition for the dms icon */
 
